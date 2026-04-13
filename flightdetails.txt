@@ -1,0 +1,21 @@
+AI101 | Chennai | Delhi | 10:30 AM
+SG202 | Chennai | Mumbai | 11:45 AM
+6E303 | Delhi | Kolkata | 06:50 AM
+AI304 | Mumbai | Ahmedabad | 09:15 AM
+6E401 | Bangalore | Hyderabad | 07:30 AM
+SG509 | Lucknow | Bhopal | 10:00 AM
+AI402 | Pune | Jaipur | 06:45 PM
+6E605 | Guwahati | Kolkata | 08:00 AM
+SG606 | Ranchi | Patna | 02:10 PM
+AI707 | Srinagar | Delhi | 09:00 AM
+6E708 | Kochi | Chennai | 05:00 PM
+SG809 | Trivandrum | Bangalore | 06:30 AM
+AI910 | Indore | Mumbai | 12:15 PM
+6E911 | Jaipur | Chandigarh | 08:45 AM
+SG1012 | Dehradun | Delhi | 04:30 PM
+AI1113 | Nagpur | Hyderabad | 01:50 PM
+6E1214 | Bhubaneswar | Vizag | 07:00 AM
+SG1315 | Ahmedabad | Goa | 06:00 PM
+AI1416 | Delhi | Leh | 05:30 AM
+6E1517 | Kolkata | Port Blair | 09:20 AM
+SG1618 | Mumbai | Udaipur | 03:00 PM
